@@ -31,6 +31,8 @@ The purpose of this project is to experiment with cross-device interaction and d
 *Be sure to include any relevant links to tools or bibliographic references to the literature.*
 
 \[1\] Schmidt, D., Seifert, J., Rukzio, E. and Gellersen, H., 2012, June. “A cross-device interaction style for mobiles and surfaces.” In: Proceedings of the Designing Interactive Systems Conference (pp. 318-327). ACM.
+
 \[2\] https://kivy.org/#home
+
 \[3\] https://zeromq.org/
 
