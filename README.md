@@ -2,6 +2,11 @@
 # Overview
 *In this section give a broad overview of the project goals and plan*
 
+- **Academic Year**: 2019-2020
+- **Project Title**: Cross-device interaction between smartphones and interactive surfaces
+- **Students**: John Smith and Marco Rossi 
+- **CFUs**: 9 (or 6)
+
 In this project we will re-implement the underlying technology and some of the interaction modalities from the literature on cross-device interaction [1]. We will implement a Kivy-based subsystem for detecting touch events with smartphones on an interactive table. That is, we will detect when, where, and (some elements) of how a user physically touches the table with his smartphone. Key to this low-level subsystem will be the association of tap events with specific smartphones. This will be done using accelerometer and gyroscope measurements as described in \[1\]. Our implementation will require a both a mobile smartphone application, and a software component integrated in Kivy GUI application. Selected interaction modalities from [1] will be implemented to demonstrate the potential of this technology.
 
 # Tools and Techniques
@@ -26,6 +31,9 @@ After a final phase of evaluation, we will decide whether to release this system
 # Summary
 *Finally, here give a summary of the project with some indication of impact.*
 The purpose of this project is to experiment with cross-device interaction and determine how feasible it can be in practice. Our goal is to consider implementation strategies and experiment with at least one use-case scenario. If successful, the prototype software components developed in this project could foster cross-device interaction in real application in the future.
+
+# Project Documents
+*Put links here to the **final report** and **presentation** for the project when finished.*
 
 # Bibliography
 *Be sure to include any relevant links to tools or bibliographic references to the literature.*
